@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC26B044-138D-4B9A-8C06-98A6CE8724E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "193A01A4-881B-4516-A25A-BFE6798364B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "speak/Controller/MainController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "MainController"
+            landmarkType = "3">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "193A01A4-881B-4516-A25A-BFE6798364B7 - 70b496699b87cc87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "speak.MainController.randomNumber.getter : Swift.Int"
+                  moduleName = "speak"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anyaakbar/Dropbox%20(DeveloperAcademy-ID)/Project/speak/speak/Controller/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "193A01A4-881B-4516-A25A-BFE6798364B7 - a6150dfd62e6188b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "speak.MainController.randomNumber.setter : Swift.Int"
+                  moduleName = "speak"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anyaakbar/Dropbox%20(DeveloperAcademy-ID)/Project/speak/speak/Controller/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "193A01A4-881B-4516-A25A-BFE6798364B7 - 3dee9f6168d4ed26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "speak.MainController.randomNumber.modify : Swift.Int"
+                  moduleName = "speak"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anyaakbar/Dropbox%20(DeveloperAcademy-ID)/Project/speak/speak/Controller/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "193A01A4-881B-4516-A25A-BFE6798364B7 - fae4b0c82c79df8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "speak.MainController.randomNumber.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "speak"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anyaakbar/Dropbox%20(DeveloperAcademy-ID)/Project/speak/speak/Controller/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "193A01A4-881B-4516-A25A-BFE6798364B7 - adfe10d21c127024"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "speak.MainController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; speak.MainController"
+                  moduleName = "speak"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anyaakbar/Dropbox%20(DeveloperAcademy-ID)/Project/speak/speak/Controller/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "802">
+               </Location>
+               <Location
+                  uuid = "193A01A4-881B-4516-A25A-BFE6798364B7 - 987d6ad11b0a567f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "speak.MainController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;speak.MainController&gt;"
+                  moduleName = "speak"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anyaakbar/Dropbox%20(DeveloperAcademy-ID)/Project/speak/speak/Controller/MainController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "743">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80B1845A-EA55-479D-A569-8EE23FE04E35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "speak/Controller/MinuteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

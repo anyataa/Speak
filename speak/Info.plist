@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BalooChettan2-Bold.ttf</string>
+		<string>BalooChettan2-ExtraBold.ttf</string>
+		<string>BalooChettan2-Medium.ttf</string>
+		<string>BalooChettan2-Regular.ttf</string>
+		<string>BalooChettan2-SemiBold.ttf</string>
+	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Speak needs to access Microphone to analyze your voice during practice</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>

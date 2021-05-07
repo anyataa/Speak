@@ -7,25 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		842D5074263A4B740060D853 /* MinuteViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842D5073263A4B740060D853 /* MinuteViewCell.swift */; };
+		842D5078263A53C80060D853 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842D5077263A53C80060D853 /* Data.swift */; };
+		842D507B263A5E950060D853 /* ColorAndFontExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842D507A263A5E950060D853 /* ColorAndFontExtension.swift */; };
 		842ECA42263940A700713882 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842ECA41263940A700713882 /* AppDelegate.swift */; };
 		842ECA44263940A700713882 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842ECA43263940A700713882 /* SceneDelegate.swift */; };
-		842ECA46263940A700713882 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842ECA45263940A700713882 /* ViewController.swift */; };
+		842ECA46263940A700713882 /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842ECA45263940A700713882 /* MainController.swift */; };
 		842ECA49263940A700713882 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA47263940A700713882 /* Main.storyboard */; };
 		842ECA4C263940A700713882 /* speak.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 842ECA4A263940A700713882 /* speak.xcdatamodeld */; };
 		842ECA4E263940A800713882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA4D263940A800713882 /* Assets.xcassets */; };
 		842ECA51263940A800713882 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA4F263940A800713882 /* LaunchScreen.storyboard */; };
+		842ECA6C263950AE00713882 /* NavController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842ECA6B263950AE00713882 /* NavController1.swift */; };
+		842ECA822639551A00713882 /* BalooChettan2-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA7D2639551A00713882 /* BalooChettan2-Regular.ttf */; };
+		842ECA832639551A00713882 /* BalooChettan2-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA7E2639551A00713882 /* BalooChettan2-Bold.ttf */; };
+		842ECA842639551A00713882 /* BalooChettan2-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA7F2639551A00713882 /* BalooChettan2-ExtraBold.ttf */; };
+		842ECA852639551A00713882 /* BalooChettan2-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA802639551A00713882 /* BalooChettan2-Medium.ttf */; };
+		842ECA862639551A00713882 /* BalooChettan2-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 842ECA812639551A00713882 /* BalooChettan2-SemiBold.ttf */; };
+		847A1F6626410DF9004BFE6A /* InterjectionRecognizer.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 847A1F6526410DF9004BFE6A /* InterjectionRecognizer.mlmodel */; };
+		847A1F7426413A28004BFE6A /* resultObserver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847A1F7326413A28004BFE6A /* resultObserver.swift */; };
+		8481F1BD263BB67500EA341E /* MinuteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8481F1BC263BB67500EA341E /* MinuteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		842D5073263A4B740060D853 /* MinuteViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinuteViewCell.swift; sourceTree = "<group>"; };
+		842D5077263A53C80060D853 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		842D507A263A5E950060D853 /* ColorAndFontExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorAndFontExtension.swift; sourceTree = "<group>"; };
 		842ECA3E263940A700713882 /* speak.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = speak.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		842ECA41263940A700713882 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		842ECA43263940A700713882 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		842ECA45263940A700713882 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		842ECA45263940A700713882 /* MainController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainController.swift; sourceTree = "<group>"; };
 		842ECA48263940A700713882 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		842ECA4B263940A700713882 /* speak.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = speak.xcdatamodel; sourceTree = "<group>"; };
 		842ECA4D263940A800713882 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		842ECA50263940A800713882 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		842ECA52263940A800713882 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		842ECA6B263950AE00713882 /* NavController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavController1.swift; sourceTree = "<group>"; };
+		842ECA7D2639551A00713882 /* BalooChettan2-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BalooChettan2-Regular.ttf"; sourceTree = "<group>"; };
+		842ECA7E2639551A00713882 /* BalooChettan2-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BalooChettan2-Bold.ttf"; sourceTree = "<group>"; };
+		842ECA7F2639551A00713882 /* BalooChettan2-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BalooChettan2-ExtraBold.ttf"; sourceTree = "<group>"; };
+		842ECA802639551A00713882 /* BalooChettan2-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BalooChettan2-Medium.ttf"; sourceTree = "<group>"; };
+		842ECA812639551A00713882 /* BalooChettan2-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BalooChettan2-SemiBold.ttf"; sourceTree = "<group>"; };
+		847A1F6526410DF9004BFE6A /* InterjectionRecognizer.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = InterjectionRecognizer.mlmodel; sourceTree = "<group>"; };
+		847A1F7326413A28004BFE6A /* resultObserver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resultObserver.swift; sourceTree = "<group>"; };
+		8481F1BC263BB67500EA341E /* MinuteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinuteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +63,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		842D5076263A53B90060D853 /* BuildInData */ = {
+			isa = PBXGroup;
+			children = (
+				847A1F6526410DF9004BFE6A /* InterjectionRecognizer.mlmodel */,
+				842D5077263A53C80060D853 /* Data.swift */,
+				842D507A263A5E950060D853 /* ColorAndFontExtension.swift */,
+			);
+			path = BuildInData;
+			sourceTree = "<group>";
+		};
 		842ECA35263940A700713882 = {
 			isa = PBXGroup;
 			children = (
@@ -58,16 +92,50 @@
 		842ECA40263940A700713882 /* speak */ = {
 			isa = PBXGroup;
 			children = (
+				842D5076263A53B90060D853 /* BuildInData */,
+				842ECA6E2639548700713882 /* Resources */,
+				842ECA5E2639416F00713882 /* Controller */,
 				842ECA41263940A700713882 /* AppDelegate.swift */,
+				842ECA5D2639412D00713882 /* Storyboard */,
 				842ECA43263940A700713882 /* SceneDelegate.swift */,
-				842ECA45263940A700713882 /* ViewController.swift */,
-				842ECA47263940A700713882 /* Main.storyboard */,
 				842ECA4D263940A800713882 /* Assets.xcassets */,
 				842ECA4F263940A800713882 /* LaunchScreen.storyboard */,
 				842ECA52263940A800713882 /* Info.plist */,
 				842ECA4A263940A700713882 /* speak.xcdatamodeld */,
 			);
 			path = speak;
+			sourceTree = "<group>";
+		};
+		842ECA5D2639412D00713882 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				842ECA47263940A700713882 /* Main.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		842ECA5E2639416F00713882 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				842ECA45263940A700713882 /* MainController.swift */,
+				842ECA6B263950AE00713882 /* NavController1.swift */,
+				8481F1BC263BB67500EA341E /* MinuteViewController.swift */,
+				847A1F7326413A28004BFE6A /* resultObserver.swift */,
+				842D5073263A4B740060D853 /* MinuteViewCell.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		842ECA6E2639548700713882 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				842ECA7E2639551A00713882 /* BalooChettan2-Bold.ttf */,
+				842ECA7F2639551A00713882 /* BalooChettan2-ExtraBold.ttf */,
+				842ECA802639551A00713882 /* BalooChettan2-Medium.ttf */,
+				842ECA7D2639551A00713882 /* BalooChettan2-Regular.ttf */,
+				842ECA812639551A00713882 /* BalooChettan2-SemiBold.ttf */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,8 +195,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				842ECA852639551A00713882 /* BalooChettan2-Medium.ttf in Resources */,
 				842ECA51263940A800713882 /* LaunchScreen.storyboard in Resources */,
+				842ECA832639551A00713882 /* BalooChettan2-Bold.ttf in Resources */,
+				842ECA862639551A00713882 /* BalooChettan2-SemiBold.ttf in Resources */,
 				842ECA4E263940A800713882 /* Assets.xcassets in Resources */,
+				842ECA842639551A00713882 /* BalooChettan2-ExtraBold.ttf in Resources */,
+				842ECA822639551A00713882 /* BalooChettan2-Regular.ttf in Resources */,
 				842ECA49263940A700713882 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,9 +213,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				842ECA46263940A700713882 /* ViewController.swift in Sources */,
+				842D5078263A53C80060D853 /* Data.swift in Sources */,
+				842ECA6C263950AE00713882 /* NavController1.swift in Sources */,
+				842ECA46263940A700713882 /* MainController.swift in Sources */,
+				842D507B263A5E950060D853 /* ColorAndFontExtension.swift in Sources */,
 				842ECA42263940A700713882 /* AppDelegate.swift in Sources */,
 				842ECA4C263940A700713882 /* speak.xcdatamodeld in Sources */,
+				847A1F7426413A28004BFE6A /* resultObserver.swift in Sources */,
+				847A1F6626410DF9004BFE6A /* InterjectionRecognizer.mlmodel in Sources */,
+				842D5074263A4B740060D853 /* MinuteViewCell.swift in Sources */,
+				8481F1BD263BB67500EA341E /* MinuteViewController.swift in Sources */,
 				842ECA44263940A700713882 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
